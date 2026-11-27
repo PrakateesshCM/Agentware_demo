@@ -1,0 +1,26 @@
+{"t": 1795811555.031648, "event": "run_start", "request": "navy formal shirt under 1000 rupees"}
+{"t": 1795811558.5606482, "event": "request_parsed", "item": "formal shirt", "max_price": 1000.0, "color": "navy"}
+{"t": 1795811559.2451663, "event": "search_done", "query": "formal shirt navy india amazon.in", "kept_so_far": 8}
+{"t": 1795811559.8300219, "event": "search_done", "query": "formal shirt navy india flipkart.com", "kept_so_far": 16}
+{"t": 1795811559.8320196, "event": "fetching", "urls": ["https://amazon.in/English-Navy-Formal-Shirt-12001SeaGreen_40/dp/B08DY52MNP/$%7Bsign-in-url%7D", "https://amazon.in/Van-Heusen-Mens-Shirt-VHSFRSLBJ74217_Navy/dp/B0B5YGR977", "https://amazon.in/Amazon-Brand-Symbol-Regular-SFS-01-VERITO-25620_Navy/dp/B08GQGS3D1", "https://flipkart.com/english-navy-men-solid-formal-blue-shirt/p/itm45b7e1bf07312", "https://flipkart.com/english-navy-men-solid-formal-black-shirt/p/itmffvrz4szgmzre", "https://flipkart.com/john-players-men-s-solid-formal-shirt/p/itmdzb8fkd6rkgum"]}
+{"t": 1795811586.2707129, "event": "accepted", "url": "https://www.amazon.in/English-Navy-Formal-Shirt-12001SeaGreen_40/dp/B08DY52MNP/$%7Bsign-in-url%7D", "price": 599.0, "rating": 3.5}
+{"t": 1795811586.2728426, "event": "accepted", "url": "https://www.amazon.in/Van-Heusen-Mens-Shirt-VHSFRSLBJ74217_Navy/dp/B0B5YGR977", "price": 840.0, "rating": 3.9}
+{"t": 1795811586.2738433, "event": "rejected", "url": "https://www.amazon.in/Amazon-Brand-Symbol-Regular-SFS-01-VERITO-25620_Navy/dp/B08GQGS3D1", "reason": "price not found in page text", "extracted_price": 0}
+{"t": 1795811586.2738433, "event": "rejected", "url": "https://flipkart.com/english-navy-men-solid-formal-blue-shirt/p/itm45b7e1bf07312", "reason": "price not found in page text", "extracted_price": 661}
+{"t": 1795811586.2753541, "event": "rejected", "url": "https://flipkart.com/english-navy-men-solid-formal-black-shirt/p/itmffvrz4szgmzre", "reason": "price not found in page text", "extracted_price": 549}
+{"t": 1795811586.2763712, "event": "rejected", "url": "https://flipkart.com/john-players-men-s-solid-formal-shirt/p/itmdzb8fkd6rkgum", "reason": "price not found in page text", "extracted_price": 1399}
+{"t": 1795811586.2763712, "event": "candidates", "count": 2}
+{"t": 1795811586.2858052, "event": "selected", "url": "https://www.amazon.in/Van-Heusen-Mens-Shirt-VHSFRSLBJ74217_Navy/dp/B0B5YGR977", "price": 840.0, "reason": "within budget; colour match=True; rating=3.9"}
+{"t": 1795811633.2336984, "event": "run_start", "request": "navy formal shirt under 100 rupees"}
+{"t": 1795811636.877894, "event": "request_parsed", "item": "formal shirt", "max_price": 100.0, "color": "navy"}
+{"t": 1795811637.5569053, "event": "search_done", "query": "formal shirt navy india amazon.in", "kept_so_far": 8}
+{"t": 1795811638.1622994, "event": "search_done", "query": "formal shirt navy india flipkart.com", "kept_so_far": 16}
+{"t": 1795811638.163302, "event": "fetching", "urls": ["https://amazon.in/English-Navy-Formal-Shirt-12001SeaGreen_40/dp/B08DY52MNP/$%7Bsign-in-url%7D", "https://amazon.in/Van-Heusen-Mens-Shirt-VHSFRSLBJ74217_Navy/dp/B0B5YGR977", "https://amazon.in/Amazon-Brand-Symbol-Regular-SFS-01-VERITO-25620_Navy/dp/B08GQGS3D1", "https://flipkart.com/english-navy-men-solid-formal-blue-shirt/p/itm45b7e1bf07312", "https://flipkart.com/english-navy-men-solid-formal-black-shirt/p/itmffvrz4szgmzre", "https://flipkart.com/john-players-men-s-solid-formal-shirt/p/itmdzb8fkd6rkgum"]}
+{"t": 1795811659.7960854, "event": "accepted", "url": "https://www.amazon.in/English-Navy-Formal-Shirt-12001SeaGreen_40/dp/B08DY52MNP/$%7Bsign-in-url%7D", "price": 496.0, "rating": null}
+{"t": 1795811659.7975965, "event": "accepted", "url": "https://www.amazon.in/Van-Heusen-Mens-Shirt-VHSFRSLBJ74217_Navy/dp/B0B5YGR977", "price": 840.0, "rating": 3.9}
+{"t": 1795811659.7985964, "event": "rejected", "url": "https://www.amazon.in/Amazon-Brand-Symbol-Regular-SFS-01-VERITO-25620_Navy/dp/B08GQGS3D1", "reason": "price not found in page text", "extracted_price": 0}
+{"t": 1795811659.7985964, "event": "rejected", "url": "https://flipkart.com/english-navy-men-solid-formal-blue-shirt/p/itm45b7e1bf07312", "reason": "price not found in page text", "extracted_price": 661}
+{"t": 1795811659.800032, "event": "rejected", "url": "https://flipkart.com/english-navy-men-solid-formal-black-shirt/p/itmffvrz4szgmzre", "reason": "price not found in page text", "extracted_price": 549}
+{"t": 1795811659.8010304, "event": "rejected", "url": "https://flipkart.com/john-players-men-s-solid-formal-shirt/p/itmdzb8fkd6rkgum", "reason": "price not found in page text", "extracted_price": 1399}
+{"t": 1795811659.8020306, "event": "candidates", "count": 2}
+{"t": 1795811659.8030307, "event": "no_selection", "reason": "no product within budget"}
